@@ -1,0 +1,1012 @@
+no pretrain
+
+
+Threshold:  1.0         Positive number:  0
+
+epoch: 2/50  (lr: 0.01)
+Training: 100%|█████████████████████| 165/165 [01:36<00:00,  1.71it/s]
+[Train] avg_classification_loss: 0.21785 avg_real_domain_loss: 0.67504 avg_asymmetricTripletLoss: 0.18657
+
+Validate: 100%|█████████████████████| 900/900 [02:53<00:00,  5.19it/s]
+[Valid] avg_classification_loss: 0.34503
+
+Accuracy: 88.33 %
+AUC: 0.997
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  898
+Threshold:  0.2         Positive number:  594
+Threshold:  0.3         Positive number:  432
+Threshold:  0.4         Positive number:  348
+Threshold:  0.5         Positive number:  285
+Threshold:  0.6         Positive number:  236
+Threshold:  0.7         Positive number:  195
+Threshold:  0.8         Positive number:  156
+Threshold:  0.9         Positive number:  9
+Threshold:  1.0         Positive number:  0
+
+epoch: 3/50  (lr: 0.01)
+Training: 100%|█████████████████████| 165/165 [01:36<00:00,  1.70it/s]
+[Train] avg_classification_loss: 0.20132 avg_real_domain_loss: 0.67776 avg_asymmetricTripletLoss: 0.18830
+
+Validate: 100%|█████████████████████| 900/900 [02:59<00:00,  5.03it/s]
+[Valid] avg_classification_loss: 0.21658
+
+Accuracy: 98.11 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  892
+Threshold:  0.2         Positive number:  342
+Threshold:  0.3         Positive number:  266
+Threshold:  0.4         Positive number:  220
+Threshold:  0.5         Positive number:  193
+Threshold:  0.6         Positive number:  177
+Threshold:  0.7         Positive number:  162
+Threshold:  0.8         Positive number:  133
+Threshold:  0.9         Positive number:  9
+Threshold:  1.0         Positive number:  0
+
+epoch: 4/50  (lr: 0.01)
+Training: 100%|█████████████████████| 165/165 [01:41<00:00,  1.63it/s]
+[Train] avg_classification_loss: 0.18846 avg_real_domain_loss: 0.68008 avg_asymmetricTripletLoss: 0.18881
+
+Validate: 100%|█████████████████████| 900/900 [02:49<00:00,  5.30it/s]
+[Valid] avg_classification_loss: 0.22891
+
+Accuracy: 96.89 %
+AUC: 0.999
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  372
+Threshold:  0.3         Positive number:  284
+Threshold:  0.4         Positive number:  246
+Threshold:  0.5         Positive number:  206
+Threshold:  0.6         Positive number:  191
+Threshold:  0.7         Positive number:  179
+Threshold:  0.8         Positive number:  143
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 5/50  (lr: 0.01)
+Training: 100%|█████████████████████| 165/165 [01:38<00:00,  1.67it/s]
+[Train] avg_classification_loss: 0.18361 avg_real_domain_loss: 0.68174 avg_asymmetricTripletLoss: 0.18801
+
+Validate: 100%|█████████████████████| 900/900 [02:41<00:00,  5.56it/s]
+[Valid] avg_classification_loss: 0.22291
+
+Accuracy: 97.89 %
+AUC: 0.999
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  363
+Threshold:  0.3         Positive number:  261
+Threshold:  0.4         Positive number:  218
+Threshold:  0.5         Positive number:  197
+Threshold:  0.6         Positive number:  185
+Threshold:  0.7         Positive number:  181
+Threshold:  0.8         Positive number:  156
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 6/50  (lr: 0.01)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.69it/s]
+[Train] avg_classification_loss: 0.18890 avg_real_domain_loss: 0.68283 avg_asymmetricTripletLoss: 0.18626
+
+Validate: 100%|█████████████████████| 900/900 [02:42<00:00,  5.55it/s]
+[Valid] avg_classification_loss: 0.46251
+
+Accuracy: 77.11 %
+AUC: 0.990
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  630
+Threshold:  0.3         Positive number:  502
+Threshold:  0.4         Positive number:  438
+Threshold:  0.5         Positive number:  386
+Threshold:  0.6         Positive number:  315
+Threshold:  0.7         Positive number:  272
+Threshold:  0.8         Positive number:  207
+Threshold:  0.9         Positive number:  29
+Threshold:  1.0         Positive number:  0
+
+epoch: 7/50  (lr: 0.01)
+Training: 100%|█████████████████████| 165/165 [01:39<00:00,  1.66it/s]
+[Train] avg_classification_loss: 0.19238 avg_real_domain_loss: 0.68442 avg_asymmetricTripletLoss: 0.18473
+
+Validate: 100%|█████████████████████| 900/900 [02:43<00:00,  5.50it/s]
+[Valid] avg_classification_loss: 0.30100
+
+Accuracy: 91.00 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  426
+Threshold:  0.3         Positive number:  344
+Threshold:  0.4         Positive number:  293
+Threshold:  0.5         Positive number:  261
+Threshold:  0.6         Positive number:  241
+Threshold:  0.7         Positive number:  210
+Threshold:  0.8         Positive number:  154
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 8/50  (lr: 0.01)
+Training: 100%|█████████████████████| 165/165 [02:11<00:00,  1.26it/s]
+[Train] avg_classification_loss: 0.20722 avg_real_domain_loss: 0.68610 avg_asymmetricTripletLoss: 0.18330
+
+Validate: 100%|█████████████████████| 900/900 [02:50<00:00,  5.28it/s]
+[Valid] avg_classification_loss: 0.35140
+
+Accuracy: 87.89 %
+AUC: 0.974
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  513
+Threshold:  0.3         Positive number:  382
+Threshold:  0.4         Positive number:  320
+Threshold:  0.5         Positive number:  277
+Threshold:  0.6         Positive number:  243
+Threshold:  0.7         Positive number:  197
+Threshold:  0.8         Positive number:  106
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 9/50  (lr: 0.01)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.69it/s]
+[Train] avg_classification_loss: 0.20607 avg_real_domain_loss: 0.68727 avg_asymmetricTripletLoss: 0.18230
+
+Validate: 100%|█████████████████████| 900/900 [02:38<00:00,  5.67it/s]
+[Valid] avg_classification_loss: 0.30689
+
+Accuracy: 91.33 %
+AUC: 0.995
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  433
+Threshold:  0.3         Positive number:  339
+Threshold:  0.4         Positive number:  287
+Threshold:  0.5         Positive number:  254
+Threshold:  0.6         Positive number:  230
+Threshold:  0.7         Positive number:  194
+Threshold:  0.8         Positive number:  139
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 10/50  (lr: 0.001)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.69it/s]
+[Train] avg_classification_loss: 0.19324 avg_real_domain_loss: 0.68780 avg_asymmetricTripletLoss: 0.18006
+
+Validate: 100%|█████████████████████| 900/900 [02:44<00:00,  5.46it/s]
+[Valid] avg_classification_loss: 0.25514
+
+Accuracy: 96.22 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  379
+Threshold:  0.3         Positive number:  276
+Threshold:  0.4         Positive number:  237
+Threshold:  0.5         Positive number:  210
+Threshold:  0.6         Positive number:  191
+Threshold:  0.7         Positive number:  177
+Threshold:  0.8         Positive number:  143
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 11/50  (lr: 0.001)
+Training: 100%|█████████████████████| 165/165 [01:39<00:00,  1.66it/s]
+[Train] avg_classification_loss: 0.19265 avg_real_domain_loss: 0.68799 avg_asymmetricTripletLoss: 0.17913
+
+Validate: 100%|█████████████████████| 900/900 [02:46<00:00,  5.40it/s]
+[Valid] avg_classification_loss: 0.25019
+
+Accuracy: 96.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  375
+Threshold:  0.3         Positive number:  264
+Threshold:  0.4         Positive number:  228
+Threshold:  0.5         Positive number:  205
+Threshold:  0.6         Positive number:  193
+Threshold:  0.7         Positive number:  177
+Threshold:  0.8         Positive number:  135
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 12/50  (lr: 0.001)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.69it/s]
+[Train] avg_classification_loss: 0.19260 avg_real_domain_loss: 0.68779 avg_asymmetricTripletLoss: 0.17864
+
+Validate: 100%|█████████████████████| 900/900 [02:35<00:00,  5.80it/s]
+[Valid] avg_classification_loss: 0.24863
+
+Accuracy: 96.89 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  370
+Threshold:  0.3         Positive number:  257
+Threshold:  0.4         Positive number:  231
+Threshold:  0.5         Positive number:  204
+Threshold:  0.6         Positive number:  187
+Threshold:  0.7         Positive number:  177
+Threshold:  0.8         Positive number:  135
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 13/50  (lr: 0.001)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.70it/s]
+[Train] avg_classification_loss: 0.19247 avg_real_domain_loss: 0.68783 avg_asymmetricTripletLoss: 0.17825
+
+Validate: 100%|█████████████████████| 900/900 [02:47<00:00,  5.37it/s]
+[Valid] avg_classification_loss: 0.23447
+
+Accuracy: 97.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  328
+Threshold:  0.3         Positive number:  234
+Threshold:  0.4         Positive number:  209
+Threshold:  0.5         Positive number:  194
+Threshold:  0.6         Positive number:  181
+Threshold:  0.7         Positive number:  172
+Threshold:  0.8         Positive number:  131
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 14/50  (lr: 0.001)
+Training: 100%|█████████████████████| 165/165 [01:41<00:00,  1.63it/s]
+[Train] avg_classification_loss: 0.19184 avg_real_domain_loss: 0.68819 avg_asymmetricTripletLoss: 0.17787
+
+Validate: 100%|█████████████████████| 900/900 [02:45<00:00,  5.44it/s]
+[Valid] avg_classification_loss: 0.24838
+
+Accuracy: 97.00 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  371
+Threshold:  0.3         Positive number:  263
+Threshold:  0.4         Positive number:  229
+Threshold:  0.5         Positive number:  203
+Threshold:  0.6         Positive number:  190
+Threshold:  0.7         Positive number:  178
+Threshold:  0.8         Positive number:  140
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 15/50  (lr: 0.001)
+Training: 100%|█████████████████████| 165/165 [01:40<00:00,  1.64it/s]
+[Train] avg_classification_loss: 0.19184 avg_real_domain_loss: 0.68840 avg_asymmetricTripletLoss: 0.17785
+
+Validate: 100%|█████████████████████| 900/900 [02:38<00:00,  5.67it/s]
+[Valid] avg_classification_loss: 0.23259
+
+Accuracy: 98.33 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  311
+Threshold:  0.3         Positive number:  224
+Threshold:  0.4         Positive number:  203
+Threshold:  0.5         Positive number:  187
+Threshold:  0.6         Positive number:  180
+Threshold:  0.7         Positive number:  170
+Threshold:  0.8         Positive number:  135
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 16/50  (lr: 0.001)
+Training: 100%|█████████████████████| 165/165 [01:39<00:00,  1.67it/s]
+[Train] avg_classification_loss: 0.19188 avg_real_domain_loss: 0.68851 avg_asymmetricTripletLoss: 0.17808
+
+Validate: 100%|█████████████████████| 900/900 [02:44<00:00,  5.47it/s]
+[Valid] avg_classification_loss: 0.23390
+
+Accuracy: 98.11 %
+AUC: 0.997
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  328
+Threshold:  0.3         Positive number:  229
+Threshold:  0.4         Positive number:  206
+Threshold:  0.5         Positive number:  191
+Threshold:  0.6         Positive number:  178
+Threshold:  0.7         Positive number:  173
+Threshold:  0.8         Positive number:  133
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 17/50  (lr: 0.001)
+Training: 100%|█████████████████████| 165/165 [01:39<00:00,  1.65it/s]
+[Train] avg_classification_loss: 0.19147 avg_real_domain_loss: 0.68854 avg_asymmetricTripletLoss: 0.17729
+
+Validate: 100%|█████████████████████| 900/900 [02:44<00:00,  5.48it/s]
+[Valid] avg_classification_loss: 0.24871
+
+Accuracy: 97.22 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  365
+Threshold:  0.3         Positive number:  258
+Threshold:  0.4         Positive number:  225
+Threshold:  0.5         Positive number:  201
+Threshold:  0.6         Positive number:  193
+Threshold:  0.7         Positive number:  177
+Threshold:  0.8         Positive number:  146
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 18/50  (lr: 0.001)
+Training: 100%|█████████████████████| 165/165 [01:40<00:00,  1.64it/s]
+[Train] avg_classification_loss: 0.19176 avg_real_domain_loss: 0.68872 avg_asymmetricTripletLoss: 0.17795
+
+Validate: 100%|█████████████████████| 900/900 [02:38<00:00,  5.68it/s]
+[Valid] avg_classification_loss: 0.25226
+
+Accuracy: 96.33 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  386
+Threshold:  0.3         Positive number:  261
+Threshold:  0.4         Positive number:  227
+Threshold:  0.5         Positive number:  209
+Threshold:  0.6         Positive number:  197
+Threshold:  0.7         Positive number:  180
+Threshold:  0.8         Positive number:  154
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 19/50  (lr: 0.001)
+Training: 100%|█████████████████████| 165/165 [01:40<00:00,  1.65it/s]
+[Train] avg_classification_loss: 0.19176 avg_real_domain_loss: 0.68883 avg_asymmetricTripletLoss: 0.17792
+
+Validate: 100%|█████████████████████| 900/900 [02:46<00:00,  5.40it/s]
+[Valid] avg_classification_loss: 0.22980
+
+Accuracy: 98.00 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  316
+Threshold:  0.3         Positive number:  221
+Threshold:  0.4         Positive number:  199
+Threshold:  0.5         Positive number:  190
+Threshold:  0.6         Positive number:  179
+Threshold:  0.7         Positive number:  173
+Threshold:  0.8         Positive number:  137
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 20/50  (lr: 0.0001)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.70it/s]
+[Train] avg_classification_loss: 0.19194 avg_real_domain_loss: 0.68891 avg_asymmetricTripletLoss: 0.17708
+
+Validate: 100%|█████████████████████| 900/900 [02:45<00:00,  5.42it/s]
+[Valid] avg_classification_loss: 0.23809
+
+Accuracy: 97.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  353
+Threshold:  0.3         Positive number:  242
+Threshold:  0.4         Positive number:  209
+Threshold:  0.5         Positive number:  194
+Threshold:  0.6         Positive number:  182
+Threshold:  0.7         Positive number:  173
+Threshold:  0.8         Positive number:  135
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 21/50  (lr: 0.0001)
+Training: 100%|█████████████████████| 165/165 [01:42<00:00,  1.62it/s]
+[Train] avg_classification_loss: 0.19168 avg_real_domain_loss: 0.68896 avg_asymmetricTripletLoss: 0.17790
+
+Validate: 100%|█████████████████████| 900/900 [02:44<00:00,  5.48it/s]
+[Valid] avg_classification_loss: 0.24026
+
+Accuracy: 97.56 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  353
+Threshold:  0.3         Positive number:  237
+Threshold:  0.4         Positive number:  214
+Threshold:  0.5         Positive number:  198
+Threshold:  0.6         Positive number:  184
+Threshold:  0.7         Positive number:  176
+Threshold:  0.8         Positive number:  133
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 22/50  (lr: 0.0001)
+Training: 100%|█████████████████████| 165/165 [01:39<00:00,  1.66it/s]
+[Train] avg_classification_loss: 0.19198 avg_real_domain_loss: 0.68901 avg_asymmetricTripletLoss: 0.17782
+
+Validate: 100%|█████████████████████| 900/900 [02:49<00:00,  5.31it/s]
+[Valid] avg_classification_loss: 0.23642
+
+Accuracy: 97.67 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  345
+Threshold:  0.3         Positive number:  237
+Threshold:  0.4         Positive number:  210
+Threshold:  0.5         Positive number:  195
+Threshold:  0.6         Positive number:  183
+Threshold:  0.7         Positive number:  177
+Threshold:  0.8         Positive number:  137
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 23/50  (lr: 0.0001)
+Training: 100%|█████████████████████| 165/165 [01:42<00:00,  1.60it/s]
+[Train] avg_classification_loss: 0.19163 avg_real_domain_loss: 0.68900 avg_asymmetricTripletLoss: 0.17730
+
+Validate: 100%|█████████████████████| 900/900 [02:57<00:00,  5.07it/s]
+[Valid] avg_classification_loss: 0.23716
+
+Accuracy: 97.44 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  351
+Threshold:  0.3         Positive number:  232
+Threshold:  0.4         Positive number:  210
+Threshold:  0.5         Positive number:  197
+Threshold:  0.6         Positive number:  186
+Threshold:  0.7         Positive number:  176
+Threshold:  0.8         Positive number:  142
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 24/50  (lr: 0.0001)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.70it/s]
+[Train] avg_classification_loss: 0.19177 avg_real_domain_loss: 0.68899 avg_asymmetricTripletLoss: 0.17751
+
+Validate: 100%|█████████████████████| 900/900 [02:50<00:00,  5.28it/s]
+[Valid] avg_classification_loss: 0.23504
+
+Accuracy: 97.89 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  333
+Threshold:  0.3         Positive number:  239
+Threshold:  0.4         Positive number:  207
+Threshold:  0.5         Positive number:  195
+Threshold:  0.6         Positive number:  183
+Threshold:  0.7         Positive number:  176
+Threshold:  0.8         Positive number:  128
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 25/50  (lr: 0.0001)
+Training: 100%|█████████████████████| 165/165 [01:35<00:00,  1.72it/s]
+[Train] avg_classification_loss: 0.19156 avg_real_domain_loss: 0.68899 avg_asymmetricTripletLoss: 0.17710
+
+Validate: 100%|█████████████████████| 900/900 [02:42<00:00,  5.53it/s]
+[Valid] avg_classification_loss: 0.23816
+
+Accuracy: 97.89 %
+AUC: 0.999
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  349
+Threshold:  0.3         Positive number:  241
+Threshold:  0.4         Positive number:  213
+Threshold:  0.5         Positive number:  195
+Threshold:  0.6         Positive number:  185
+Threshold:  0.7         Positive number:  176
+Threshold:  0.8         Positive number:  129
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 26/50  (lr: 0.0001)
+Training: 100%|█████████████████████| 165/165 [01:33<00:00,  1.76it/s]
+[Train] avg_classification_loss: 0.19148 avg_real_domain_loss: 0.68908 avg_asymmetricTripletLoss: 0.17721
+
+Validate: 100%|█████████████████████| 900/900 [03:19<00:00,  4.52it/s]
+[Valid] avg_classification_loss: 0.23419
+
+Accuracy: 97.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  339
+Threshold:  0.3         Positive number:  232
+Threshold:  0.4         Positive number:  207
+Threshold:  0.5         Positive number:  196
+Threshold:  0.6         Positive number:  183
+Threshold:  0.7         Positive number:  174
+Threshold:  0.8         Positive number:  131
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 27/50  (lr: 0.0001)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.70it/s]
+[Train] avg_classification_loss: 0.19155 avg_real_domain_loss: 0.68891 avg_asymmetricTripletLoss: 0.17723
+
+Validate: 100%|█████████████████████| 900/900 [02:52<00:00,  5.22it/s]
+[Valid] avg_classification_loss: 0.23661
+
+Accuracy: 97.89 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  334
+Threshold:  0.3         Positive number:  236
+Threshold:  0.4         Positive number:  205
+Threshold:  0.5         Positive number:  193
+Threshold:  0.6         Positive number:  182
+Threshold:  0.7         Positive number:  175
+Threshold:  0.8         Positive number:  136
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 28/50  (lr: 0.0001)
+Training: 100%|█████████████████████| 165/165 [01:34<00:00,  1.75it/s]
+[Train] avg_classification_loss: 0.19136 avg_real_domain_loss: 0.68896 avg_asymmetricTripletLoss: 0.17740
+
+Validate: 100%|█████████████████████| 900/900 [02:45<00:00,  5.42it/s]
+[Valid] avg_classification_loss: 0.23637
+
+Accuracy: 97.89 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  333
+Threshold:  0.3         Positive number:  238
+Threshold:  0.4         Positive number:  208
+Threshold:  0.5         Positive number:  195
+Threshold:  0.6         Positive number:  181
+Threshold:  0.7         Positive number:  174
+Threshold:  0.8         Positive number:  134
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 29/50  (lr: 0.0001)
+Training: 100%|█████████████████████| 165/165 [01:39<00:00,  1.66it/s]
+[Train] avg_classification_loss: 0.19135 avg_real_domain_loss: 0.68908 avg_asymmetricTripletLoss: 0.17730
+
+Validate: 100%|█████████████████████| 900/900 [02:48<00:00,  5.35it/s]
+[Valid] avg_classification_loss: 0.23899
+
+Accuracy: 97.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  335
+Threshold:  0.3         Positive number:  235
+Threshold:  0.4         Positive number:  212
+Threshold:  0.5         Positive number:  196
+Threshold:  0.6         Positive number:  185
+Threshold:  0.7         Positive number:  175
+Threshold:  0.8         Positive number:  144
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 30/50  (lr: 1e-05)
+Training: 100%|█████████████████████| 165/165 [01:35<00:00,  1.73it/s]
+[Train] avg_classification_loss: 0.19156 avg_real_domain_loss: 0.68892 avg_asymmetricTripletLoss: 0.17705
+
+Validate: 100%|█████████████████████| 900/900 [02:50<00:00,  5.28it/s]
+[Valid] avg_classification_loss: 0.24108
+
+Accuracy: 97.44 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  356
+Threshold:  0.3         Positive number:  243
+Threshold:  0.4         Positive number:  218
+Threshold:  0.5         Positive number:  197
+Threshold:  0.6         Positive number:  186
+Threshold:  0.7         Positive number:  178
+Threshold:  0.8         Positive number:  135
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 31/50  (lr: 1e-05)
+Training: 100%|█████████████████████| 165/165 [01:38<00:00,  1.67it/s]
+[Train] avg_classification_loss: 0.19150 avg_real_domain_loss: 0.68904 avg_asymmetricTripletLoss: 0.17723
+
+Validate: 100%|█████████████████████| 900/900 [02:42<00:00,  5.53it/s]
+[Valid] avg_classification_loss: 0.23923
+
+Accuracy: 97.67 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  338
+Threshold:  0.3         Positive number:  240
+Threshold:  0.4         Positive number:  214
+Threshold:  0.5         Positive number:  195
+Threshold:  0.6         Positive number:  183
+Threshold:  0.7         Positive number:  175
+Threshold:  0.8         Positive number:  136
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 32/50  (lr: 1e-05)
+Training: 100%|█████████████████████| 165/165 [01:39<00:00,  1.66it/s]
+[Train] avg_classification_loss: 0.19079 avg_real_domain_loss: 0.68890 avg_asymmetricTripletLoss: 0.17795
+
+Validate: 100%|█████████████████████| 900/900 [02:44<00:00,  5.46it/s]
+[Valid] avg_classification_loss: 0.23686
+
+Accuracy: 97.44 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  335
+Threshold:  0.3         Positive number:  236
+Threshold:  0.4         Positive number:  207
+Threshold:  0.5         Positive number:  195
+Threshold:  0.6         Positive number:  185
+Threshold:  0.7         Positive number:  173
+Threshold:  0.8         Positive number:  132
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 33/50  (lr: 1e-05)
+Training: 100%|█████████████████████| 165/165 [01:38<00:00,  1.68it/s]
+[Train] avg_classification_loss: 0.19122 avg_real_domain_loss: 0.68897 avg_asymmetricTripletLoss: 0.17744
+
+Validate: 100%|█████████████████████| 900/900 [02:42<00:00,  5.53it/s]
+[Valid] avg_classification_loss: 0.23874
+
+Accuracy: 97.89 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  351
+Threshold:  0.3         Positive number:  241
+Threshold:  0.4         Positive number:  211
+Threshold:  0.5         Positive number:  195
+Threshold:  0.6         Positive number:  185
+Threshold:  0.7         Positive number:  176
+Threshold:  0.8         Positive number:  136
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 34/50  (lr: 1e-05)
+Training: 100%|█████████████████████| 165/165 [01:42<00:00,  1.61it/s]
+[Train] avg_classification_loss: 0.19129 avg_real_domain_loss: 0.68892 avg_asymmetricTripletLoss: 0.17723
+
+Validate: 100%|█████████████████████| 900/900 [02:42<00:00,  5.53it/s]
+[Valid] avg_classification_loss: 0.23828
+
+Accuracy: 97.56 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  350
+Threshold:  0.3         Positive number:  242
+Threshold:  0.4         Positive number:  210
+Threshold:  0.5         Positive number:  198
+Threshold:  0.6         Positive number:  184
+Threshold:  0.7         Positive number:  176
+Threshold:  0.8         Positive number:  138
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 35/50  (lr: 1e-05)
+Training: 100%|█████████████████████| 165/165 [01:38<00:00,  1.67it/s]
+[Train] avg_classification_loss: 0.19159 avg_real_domain_loss: 0.68896 avg_asymmetricTripletLoss: 0.17702
+
+Validate: 100%|█████████████████████| 900/900 [02:42<00:00,  5.53it/s]
+[Valid] avg_classification_loss: 0.23911
+
+Accuracy: 97.44 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  347
+Threshold:  0.3         Positive number:  241
+Threshold:  0.4         Positive number:  210
+Threshold:  0.5         Positive number:  199
+Threshold:  0.6         Positive number:  184
+Threshold:  0.7         Positive number:  175
+Threshold:  0.8         Positive number:  135
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 36/50  (lr: 1e-05)
+Training: 100%|█████████████████████| 165/165 [01:35<00:00,  1.73it/s]
+[Train] avg_classification_loss: 0.19140 avg_real_domain_loss: 0.68901 avg_asymmetricTripletLoss: 0.17770
+
+Validate: 100%|█████████████████████| 900/900 [02:54<00:00,  5.15it/s]
+[Valid] avg_classification_loss: 0.24060
+
+Accuracy: 98.00 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  350
+Threshold:  0.3         Positive number:  240
+Threshold:  0.4         Positive number:  214
+Threshold:  0.5         Positive number:  194
+Threshold:  0.6         Positive number:  188
+Threshold:  0.7         Positive number:  177
+Threshold:  0.8         Positive number:  133
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 37/50  (lr: 1e-05)
+Training: 100%|█████████████████████| 165/165 [01:38<00:00,  1.68it/s]
+[Train] avg_classification_loss: 0.19153 avg_real_domain_loss: 0.68897 avg_asymmetricTripletLoss: 0.17709
+
+Validate: 100%|█████████████████████| 900/900 [03:03<00:00,  4.91it/s]
+[Valid] avg_classification_loss: 0.23423
+
+Accuracy: 97.89 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  333
+Threshold:  0.3         Positive number:  233
+Threshold:  0.4         Positive number:  208
+Threshold:  0.5         Positive number:  193
+Threshold:  0.6         Positive number:  182
+Threshold:  0.7         Positive number:  174
+Threshold:  0.8         Positive number:  129
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 38/50  (lr: 1e-05)
+Training: 100%|█████████████████████| 165/165 [01:38<00:00,  1.68it/s]
+[Train] avg_classification_loss: 0.19143 avg_real_domain_loss: 0.68889 avg_asymmetricTripletLoss: 0.17762
+
+Validate: 100%|█████████████████████| 900/900 [02:52<00:00,  5.20it/s]
+[Valid] avg_classification_loss: 0.23647
+
+Accuracy: 97.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  337
+Threshold:  0.3         Positive number:  238
+Threshold:  0.4         Positive number:  210
+Threshold:  0.5         Positive number:  196
+Threshold:  0.6         Positive number:  183
+Threshold:  0.7         Positive number:  177
+Threshold:  0.8         Positive number:  139
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 39/50  (lr: 1e-05)
+Training: 100%|█████████████████████| 165/165 [01:34<00:00,  1.74it/s]
+[Train] avg_classification_loss: 0.19128 avg_real_domain_loss: 0.68897 avg_asymmetricTripletLoss: 0.17680
+
+Validate: 100%|█████████████████████| 900/900 [03:02<00:00,  4.92it/s]
+[Valid] avg_classification_loss: 0.23555
+
+Accuracy: 97.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  339
+Threshold:  0.3         Positive number:  234
+Threshold:  0.4         Positive number:  208
+Threshold:  0.5         Positive number:  194
+Threshold:  0.6         Positive number:  184
+Threshold:  0.7         Positive number:  176
+Threshold:  0.8         Positive number:  142
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 40/50  (lr: 1.0000000000000002e-06)
+Training: 100%|█████████████████████| 165/165 [01:38<00:00,  1.67it/s]
+[Train] avg_classification_loss: 0.19130 avg_real_domain_loss: 0.68904 avg_asymmetricTripletLoss: 0.17687
+
+Validate: 100%|█████████████████████| 900/900 [02:51<00:00,  5.25it/s]
+[Valid] avg_classification_loss: 0.23722
+
+Accuracy: 97.67 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  346
+Threshold:  0.3         Positive number:  235
+Threshold:  0.4         Positive number:  209
+Threshold:  0.5         Positive number:  195
+Threshold:  0.6         Positive number:  185
+Threshold:  0.7         Positive number:  177
+Threshold:  0.8         Positive number:  140
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 41/50  (lr: 1.0000000000000002e-06)
+Training: 100%|█████████████████████| 165/165 [01:36<00:00,  1.70it/s]
+[Train] avg_classification_loss: 0.19116 avg_real_domain_loss: 0.68901 avg_asymmetricTripletLoss: 0.17729
+
+Validate: 100%|█████████████████████| 900/900 [02:45<00:00,  5.43it/s]
+[Valid] avg_classification_loss: 0.23652
+
+Accuracy: 97.67 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  335
+Threshold:  0.3         Positive number:  236
+Threshold:  0.4         Positive number:  208
+Threshold:  0.5         Positive number:  193
+Threshold:  0.6         Positive number:  182
+Threshold:  0.7         Positive number:  173
+Threshold:  0.8         Positive number:  130
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 42/50  (lr: 1.0000000000000002e-06)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.68it/s]
+[Train] avg_classification_loss: 0.19149 avg_real_domain_loss: 0.68914 avg_asymmetricTripletLoss: 0.17735
+
+Validate: 100%|█████████████████████| 900/900 [03:04<00:00,  4.88it/s]
+[Valid] avg_classification_loss: 0.23656
+
+Accuracy: 97.56 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  343
+Threshold:  0.3         Positive number:  237
+Threshold:  0.4         Positive number:  208
+Threshold:  0.5         Positive number:  196
+Threshold:  0.6         Positive number:  184
+Threshold:  0.7         Positive number:  174
+Threshold:  0.8         Positive number:  133
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 43/50  (lr: 1.0000000000000002e-06)
+Training: 100%|█████████████████████| 165/165 [01:38<00:00,  1.67it/s]
+[Train] avg_classification_loss: 0.19119 avg_real_domain_loss: 0.68900 avg_asymmetricTripletLoss: 0.17723
+
+Validate: 100%|█████████████████████| 900/900 [02:55<00:00,  5.12it/s]
+[Valid] avg_classification_loss: 0.23832
+
+Accuracy: 97.89 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  353
+Threshold:  0.3         Positive number:  238
+Threshold:  0.4         Positive number:  210
+Threshold:  0.5         Positive number:  195
+Threshold:  0.6         Positive number:  185
+Threshold:  0.7         Positive number:  175
+Threshold:  0.8         Positive number:  134
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 44/50  (lr: 1.0000000000000002e-06)
+Training: 100%|█████████████████████| 165/165 [01:38<00:00,  1.68it/s]
+[Train] avg_classification_loss: 0.19135 avg_real_domain_loss: 0.68891 avg_asymmetricTripletLoss: 0.17750
+
+Validate: 100%|█████████████████████| 900/900 [02:58<00:00,  5.03it/s]
+[Valid] avg_classification_loss: 0.23691
+
+Accuracy: 97.89 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  348
+Threshold:  0.3         Positive number:  240
+Threshold:  0.4         Positive number:  209
+Threshold:  0.5         Positive number:  195
+Threshold:  0.6         Positive number:  186
+Threshold:  0.7         Positive number:  176
+Threshold:  0.8         Positive number:  134
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 45/50  (lr: 1.0000000000000002e-06)
+Training: 100%|█████████████████████| 165/165 [01:39<00:00,  1.67it/s]
+[Train] avg_classification_loss: 0.19168 avg_real_domain_loss: 0.68892 avg_asymmetricTripletLoss: 0.17723
+
+Validate: 100%|█████████████████████| 900/900 [02:57<00:00,  5.06it/s]
+[Valid] avg_classification_loss: 0.23601
+
+Accuracy: 97.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  333
+Threshold:  0.3         Positive number:  236
+Threshold:  0.4         Positive number:  209
+Threshold:  0.5         Positive number:  192
+Threshold:  0.6         Positive number:  183
+Threshold:  0.7         Positive number:  174
+Threshold:  0.8         Positive number:  133
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 46/50  (lr: 1.0000000000000002e-06)
+Training: 100%|█████████████████████| 165/165 [01:40<00:00,  1.64it/s]
+[Train] avg_classification_loss: 0.19134 avg_real_domain_loss: 0.68899 avg_asymmetricTripletLoss: 0.17784
+
+Validate: 100%|█████████████████████| 900/900 [02:51<00:00,  5.25it/s]
+[Valid] avg_classification_loss: 0.23781
+
+Accuracy: 97.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  349
+Threshold:  0.3         Positive number:  239
+Threshold:  0.4         Positive number:  208
+Threshold:  0.5         Positive number:  196
+Threshold:  0.6         Positive number:  185
+Threshold:  0.7         Positive number:  174
+Threshold:  0.8         Positive number:  139
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 47/50  (lr: 1.0000000000000002e-06)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.69it/s]
+[Train] avg_classification_loss: 0.19154 avg_real_domain_loss: 0.68900 avg_asymmetricTripletLoss: 0.17704
+
+Validate: 100%|█████████████████████| 900/900 [02:46<00:00,  5.39it/s]
+[Valid] avg_classification_loss: 0.23829
+
+Accuracy: 97.67 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  349
+Threshold:  0.3         Positive number:  238
+Threshold:  0.4         Positive number:  210
+Threshold:  0.5         Positive number:  197
+Threshold:  0.6         Positive number:  184
+Threshold:  0.7         Positive number:  175
+Threshold:  0.8         Positive number:  138
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 48/50  (lr: 1.0000000000000002e-06)
+Training: 100%|█████████████████████| 165/165 [01:37<00:00,  1.69it/s]
+[Train] avg_classification_loss: 0.19119 avg_real_domain_loss: 0.68897 avg_asymmetricTripletLoss: 0.17692
+
+Validate: 100%|█████████████████████| 900/900 [03:01<00:00,  4.97it/s]
+[Valid] avg_classification_loss: 0.23774
+
+Accuracy: 97.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  350
+Threshold:  0.3         Positive number:  238
+Threshold:  0.4         Positive number:  209
+Threshold:  0.5         Positive number:  194
+Threshold:  0.6         Positive number:  182
+Threshold:  0.7         Positive number:  173
+Threshold:  0.8         Positive number:  136
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
+
+epoch: 49/50  (lr: 1.0000000000000002e-06)
+Training: 100%|█████████████████████| 165/165 [01:39<00:00,  1.66it/s]
+[Train] avg_classification_loss: 0.19135 avg_real_domain_loss: 0.68890 avg_asymmetricTripletLoss: 0.17728
+
+Validate: 100%|█████████████████████| 900/900 [02:52<00:00,  5.23it/s]
+[Valid] avg_classification_loss: 0.23761
+
+Accuracy: 97.78 %
+AUC: 0.998
+Threshold:  0.0         Positive number:  900
+Threshold:  0.1         Positive number:  900
+Threshold:  0.2         Positive number:  356
+Threshold:  0.3         Positive number:  237
+Threshold:  0.4         Positive number:  208
+Threshold:  0.5         Positive number:  194
+Threshold:  0.6         Positive number:  184
+Threshold:  0.7         Positive number:  174
+Threshold:  0.8         Positive number:  138
+Threshold:  0.9         Positive number:  0
+Threshold:  1.0         Positive number:  0
